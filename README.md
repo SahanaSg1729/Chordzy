@@ -8,10 +8,11 @@ This project is about the mp3 music player application development using Android
 
 [CHORDZY THE MUSIC WEBSITE.pdf](https://github.com/SahanaSg1729/Chordzy/files/7075119/CHORDZY.THE.MUSIC.WEBSITE.pdf)
 
-#Getting Started
-cd Chordzy
-npm i
-npm start
+##Getting Started
+
+- `cd Chordzy`
+- `npm i`
+- `npm start`
 
 
 
